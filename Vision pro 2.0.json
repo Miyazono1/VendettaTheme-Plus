@@ -165,9 +165,9 @@
     },
   
       "background": {
-    "blur": 1.0,
+    "blur": 2.0,
     "url": "https://cdn.discordapp.com/attachments/1086985889286209586/1096862893552709642/9b851517dfd4402482ceff768c79d4db.jpg",
-    "alpha": 1.5
+    "alpha": 0.7
     },
     "plus":{
    "version":"0",
